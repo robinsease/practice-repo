@@ -1,1 +1,2 @@
-# practice-rep
+# practice-repo
+Git fundamentals practice
